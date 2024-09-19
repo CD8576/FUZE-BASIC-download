@@ -1,3 +1,5 @@
+# 64 https://web.archive.org/web/20170916014506/http://www.fuzebasic.com/bin/fuzebasic.exe
+# 32 there is no more 32 Bit version :(
 # FUZE-BASIC-download
 the exe file for FUZE-BASIC
 
